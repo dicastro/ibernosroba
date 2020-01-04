@@ -1,0 +1,13 @@
+#ibernosrobalogo {
+    width: 3rem;
+    margin-right: 0.5rem;
+}
+
+#result #paymentresult {
+    width: 100%;
+}
+
+#result p {
+    text-align: right;
+    font-size: smaller;
+}

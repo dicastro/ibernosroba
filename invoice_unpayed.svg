@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="99.691528mm"
+   height="39.288616mm"
+   viewBox="0 0 99.691528 39.288616"
+   version="1.1"
+   id="svg5874"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="invoice_unpayed.svg">
+  <defs
+     id="defs5868" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="126.74969"
+     inkscape:cy="23.318309"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5871">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-9.8889732,-5.4043808)">
+    <ellipse
+       style="fill:#ff0000;fill-opacity:1;stroke-width:0.25968727"
+       id="path5882"
+       cx="59.734737"
+       cy="25.048689"
+       rx="49.845764"
+       ry="19.644308" />
+    <ellipse
+       style="fill:#ffd5d5;fill-opacity:1;stroke-width:0.24911413"
+       id="path5882-1"
+       cx="59.734737"
+       cy="25.048689"
+       rx="48.509418"
+       ry="18.575232" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.95393753px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.24884844;"
+       x="59.658916"
+       y="21.584251"
+       id="text5878"><tspan
+         sodipodi:role="line"
+         id="tspan5876"
+         x="59.658916"
+         y="21.584251"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.94472504px;font-family:'Cooper Black';-inkscape-font-specification:'Cooper Black, ';text-align:center;text-anchor:middle;fill:#ff0000;stroke-width:0.24884844;">FACTURA</tspan><tspan
+         sodipodi:role="line"
+         x="59.658916"
+         y="36.515156"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.94472504px;font-family:'Cooper Black';-inkscape-font-specification:'Cooper Black, ';text-align:center;text-anchor:middle;fill:#ff0000;stroke-width:0.24884844;"
+         id="tspan5880">IMPAGADA</tspan></text>
+  </g>
+</svg>
