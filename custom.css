@@ -7,7 +7,7 @@
     width: 100%;
 }
 
-#result p {
+#result p.smallbottomright {
     text-align: right;
     font-size: smaller;
 }

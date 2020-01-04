@@ -122,14 +122,15 @@
 
                     if (invoice) {
                         if (invoice.payed) {
-                            modal.find('.modal-body #result #paymentresult').attr('src', 'invoice_payed.svg')
-                            modal.find('.modal-body #result p').text('')
+                            modal.find('.modal-body #result #paymentresult').attr('src', 'invoice_payed.svg').css('display', 'flex')
+                            modal.find('.modal-body #result p').removeClass('smallbottomright').addClass('smallbottomright').text('')
                         } else {
-                            modal.find('.modal-body #result #paymentresult').attr('src', 'invoice_unpayed.svg')
-                            modal.find('.modal-body #result p').text('** Tiene un recargo del ' + invoice.charge + '%')
+                            modal.find('.modal-body #result #paymentresult').attr('src', 'invoice_unpayed.svg').css('display', 'flex')
+                            modal.find('.modal-body #result p').removeClass('smallbottomright').addClass('smallbottomright').text('** Tiene un recargo del ' + invoice.charge + '%')
                         }
                     } else {
-                        modal.find('.modal-body #result p').text('Factura no encontrada')
+                        modal.find('.modal-body #result #paymentresult').removeAttr('src').css('display', 'none')
+                        modal.find('.modal-body #result p').removeClass('smallbottomright').text('Factura no encontrada')
                     }
                 })
             })
